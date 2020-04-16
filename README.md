@@ -3,8 +3,8 @@ This is a python script that helps you to find the availability of a product on 
 
 Python Virtual Environment:
 
-$ pip install beautifulsoup4               
-$ pip install lxml
+1. $ pip install beautifulsoup4               
+2. $ pip install lxml
 $ pip install twilio 
 
 --------------------------------------------------------------
