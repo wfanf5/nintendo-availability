@@ -5,7 +5,7 @@ Python Virtual Environment:
 
 1. $ pip install beautifulsoup4               
 2. $ pip install lxml
-$ pip install twilio 
+3. $ pip install twilio 
 
 --------------------------------------------------------------
 main.py is the core file to run.
