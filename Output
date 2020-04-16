@@ -1,0 +1,12 @@
+When the product is NOT available:
+HTTP 200
+HTTP 200
+HTTP 200
+2020-04-16 10:34:17.126687
+Red is Check Stores, Black is Sold Out, Green is Sold Out
+Number of visit: 2
+
+When the product is available:
+...
+Email sent!
+Calling you now....
