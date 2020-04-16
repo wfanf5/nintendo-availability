@@ -8,9 +8,9 @@ Python Virtual Environment:
 3. $ pip install twilio 
 
 --------------------------------------------------------------
-main.py is the core file to run.
-SendMail.py is just a customized module. 
-call.py is from twilio documentation.
+-main.py is the core file to run.
+-SendMail.py is just a customized module. 
+-call.py is from twilio documentation.
 
 --------------------------------------------------------------
 Links:
